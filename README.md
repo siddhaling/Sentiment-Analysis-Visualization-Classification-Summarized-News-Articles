@@ -47,7 +47,7 @@ From the set of news articles, a bag of words are collected. For each news artic
 
 # Research Paper
 
-This research work appeared in the following article:
+This research work appeared in the following article (OPEN ACCESS):
 
 http://thesai.org/Publications/ViewPaper?Volume=9&Issue=8&Code=IJACSA&SerialNo=78
 
