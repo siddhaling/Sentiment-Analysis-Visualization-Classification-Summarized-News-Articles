@@ -5,7 +5,7 @@ The repository consists of python code which will perform sentiment analysis on 
 
 The news articles are summarized into brief representation using the python program textSummarizationForNewsArticle_1.py. The precise brief representation of news article help user to understand its content quickly. The following figure shows an example of news article summarization.
 
-![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/summarization.jpg
+![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/summarization.jpg)
 
 ### 3D Visualization of News Sentiment
 
