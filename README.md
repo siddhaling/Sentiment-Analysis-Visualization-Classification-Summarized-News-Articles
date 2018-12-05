@@ -3,13 +3,13 @@ The repository consists of python code which will perform sentiment analysis on 
 
 ### News Article Summarization
 
-The news articles are summarized into brief representation using the python program textSummarizationForNewsArticle_1.py. The precise brief representation of news article help user to understand its content quickly. The following figure shows an example of news article summarization.
+The news articles are summarized into brief representation using the python program textSummarizationForNewsArticle_1.py. The precise brief representation of news article helps the user to understand its content quickly. The following figure shows an example of the news article summarization.
 
 ![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/summarization.jpg)
 
 ### 3D Visualization of News Sentiment
 
-The news article are subjected to sentiment analysis and collected various sentiment information such as positive, negative and compound score. Also number of positive,negative, neutral words are gathered from a news article. The program 3DSentiVisualizationsNews_2.py provides 3D visualization of sentiment information. Following are examples for 3D column charts for compound sentiment score and positive score.
+The news article is subjected to sentiment analysis and collected various sentiment information such as positive, negative and compound score. Also, a number of positive, negative, neutral words are gathered from a news article. The program 3DSentiVisualizationsNews_2.py provides 3D visualization of sentiment information. Following are examples for 3D column charts for compound sentiment score and positive score.
 
 ![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/3DColumnChartCompundScr.jpg)
 
@@ -17,7 +17,7 @@ The news article are subjected to sentiment analysis and collected various senti
 
 ### Sentiment Statistics for News Articles
 
-After sentiment analysis on a news articles various statistics such as positve score, negative score, compound score etc are collected. The program sentimentStatisticsOfNewsToExcel_3.py writes sentiment statistics to an excel sheet. The following figure shows an example.
+After sentiment analysis on a news article, various statistics such as positive score, negative score, compound score etc are collected. The program sentimentStatisticsOfNewsToExcel_3.py writes sentiment statistics to an excel sheet. The following figure shows an example.
 
 ![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/sentimentStatistics.jpg)
 
@@ -41,7 +41,7 @@ The program sentiStaticsToExcelAfterSummary_5.py generates sentiment statistics 
 
 ### News Article Sentiment Classification 
 
-From the set of news articles, a bag of words are collected. For each news article feature vector of words is formed. The sentiment classification of news article is performed as shown in the below figure. The program bbcNewsSentimentClassification_6.py performs the sentiment classification of news articles.
+From the set of news articles, a bag of words are collected. For each news article feature vector of words are formed. The sentiment classification of the news article is performed as shown in the below figure. The program bbcNewsSentimentClassification_6.py performs the sentiment classification of news articles.
 
 ![alt text](https://github.com/siddhaling/Sentiment-Analysis-Visualization-Classification-Summarized-News-Articles/blob/master/images/sentiClassification.jpg)
 
@@ -55,7 +55,7 @@ http://thesai.org/Publications/ViewPaper?Volume=9&Issue=8&Code=IJACSA&SerialNo=7
 
 Please cite as 
 
-Siddhaling Urolagin, "Sentiment Analysis, Visualization and Classification of Summarized News Articles: A Novel Approach" in International Journal of Advanced Computer Science and Applications (IJACSA), Volume 9 Issue 8, pp. 616-625, August, 2018.
+Siddhaling Urolagin, "Sentiment Analysis, Visualization and Classification of Summarized News Articles: A Novel Approach" in International Journal of Advanced Computer Science and Applications (IJACSA), Volume 9 Issue 8, pp. 616-625, August 2018.
 
 # Further Projects and Contact
 
